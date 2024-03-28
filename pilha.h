@@ -11,5 +11,10 @@ typedef struct Pilha {
 **/
 void pilha_push (Pilha **topo, int valor);
 
-
+/**
+* Remove elementos do topo de uma pilha.
+*@param topo Ponteiro para o topo da pilha.
+*@return valor_removido Retorna o valor que foi removido da pilha
+**/
+int pilha_pop(Pilha **topo);
 
