@@ -3,6 +3,7 @@
 Integrantes do grupo: 
 Bárbara Luisa Crispim Ribeiro
 Gabriel Franklin Lopes de Oliveira
+Guido Piancastelli Ramos
 Gustavo Dornela Constantino
 Marcus Vinícius Da Cruz Maia
 
